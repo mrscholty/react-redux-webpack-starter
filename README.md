@@ -1,4 +1,4 @@
-# React/Redux-Webpack Starter
+# React-Redux-Webpack Starter
 
 boilerplate with dev and production configuration
 
@@ -6,7 +6,7 @@ boilerplate with dev and production configuration
 http://lab.mrscholty.com/react-redux-webpack-starter
 
 
-## Getting Started
+## Running the app
 
 1. switch to react-redux-webpack-starter directory `cd react-redux-webpack-starter`
 2. install the dependencies `npm install`
